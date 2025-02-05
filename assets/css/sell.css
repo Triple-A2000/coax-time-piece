@@ -22,7 +22,7 @@ body {
 }
 
 main {
-    height: calc(100dvh - 56px - 100px)
+    height: calc(100dvh - 56px - 100px);
 }
 
 .hero {
